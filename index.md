@@ -1,5 +1,5 @@
 <h1>test 2020</h1>
-<img src="images/timg.jpeg" ></img>
+<img src="images/timg.jpeg" width=100px height=200px />
 It is a test for github pages.
 
 
