@@ -3,7 +3,7 @@
 It is a test for github pages.
 
 
-![Pandao editor.md](https://raw.githubusercontent.com/edgaryi1989/edgaryi1989.github.io/master/images/timg.jpeg "Pandao editor.md")
+![Pandao editor.md-w100](images/timg.jpeg "Pandao editor.md")
 
 ## 有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
